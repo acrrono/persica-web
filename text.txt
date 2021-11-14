@@ -1,0 +1,40 @@
+
+
+firebase deploy --project glace-acc64
+Set-ExecutionPolicy unrestricted (терминал)
+ctrl+shift+r (css не обновляется)
+
+
+
+/*@import url(https://fonts.googleapis.com/css?family=Open+Sans);*/
+/*@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');*/
+/*@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');*/
+/*@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@500&display=swap');*/
+/*@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&display=swap');*/
+/*@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@700&display=swap');*/
+/*@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@600;700;800&display=swap');*/
+/*@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@800&display=swap');*/
+
+/*@font-face {*/
+/*    font-family: Proxima Nova;*/
+/*    src: url(/static/proximanova-medium-445fe48212325deff8ff1d87e5b7e08f.woff2) format("woff2"), url(/static/proximanova-medium-7a79b3dbb9b0990ae4b89034395a1877.woff) format("woff");*/
+/*    font-weight: 500;*/
+/*    font-style: normal;*/
+/*    font-display: block*/
+/*}*/
+
+/*@font-face {*/
+/*    font-family: Open Sans;*/
+/*    src: url(/static/OpenSans/OpenSans-Regular.ttf) format("ttf");*/
+/*    font-style: Regular;*/
+/*    font-weight: 400;*/
+/*}*/
+
+/*@font-face {*/
+/*    font-family: Open Sans;*/
+/*    src: url(/static/OpenSans/OpenSans-SemiBold.ttf) format("ttf");*/
+/*    font-style: SemiBold;*/
+/*    font-weight: 600;*/
+/*}*/
+
+/*@media screen and (min-width: 1200px) {*/
